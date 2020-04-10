@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>36F7CC23-FC66-44A8-9C29-F2BA42EE1E15</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36F7CC23-FC66-44A8-9C29-F2BA42EE1E15.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608222617.60168397</real>
+			<key>timeStoppedRecording</key>
+			<real>608222618.05118704</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>36F7CC23-FC66-44A8-9C29-F2BA42EE1E15</string>
+		</dict>
+		<key>461DD19E-E737-4FAD-865D-F7CEFC837204</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>461DD19E-E737-4FAD-865D-F7CEFC837204.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608222576.975425</real>
+			<key>timeStoppedRecording</key>
+			<real>608222577.71399903</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>461DD19E-E737-4FAD-865D-F7CEFC837204</string>
+		</dict>
+		<key>5FF939AC-236C-4AA6-A84D-A07D33D1EBEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5FF939AC-236C-4AA6-A84D-A07D33D1EBEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608222609.534778</real>
+			<key>timeStoppedRecording</key>
+			<real>608222609.56234396</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>5FF939AC-236C-4AA6-A84D-A07D33D1EBEA</string>
+		</dict>
+		<key>84D92C2D-1ACC-40A9-AB6D-931173E95560</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84D92C2D-1ACC-40A9-AB6D-931173E95560.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608223998.94556606</real>
+			<key>timeStoppedRecording</key>
+			<real>608223999.76635599</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>84D92C2D-1ACC-40A9-AB6D-931173E95560</string>
+		</dict>
+		<key>C7459E8F-943C-4C3C-AE54-62239E579A23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7459E8F-943C-4C3C-AE54-62239E579A23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608222602.86296999</real>
+			<key>timeStoppedRecording</key>
+			<real>608222603.31286097</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>C7459E8F-943C-4C3C-AE54-62239E579A23</string>
+		</dict>
+		<key>D9433C7C-C7B6-4B97-A5E1-FB842FC549D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D9433C7C-C7B6-4B97-A5E1-FB842FC549D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608222605.85037601</real>
+			<key>timeStoppedRecording</key>
+			<real>608222605.88480496</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>D9433C7C-C7B6-4B97-A5E1-FB842FC549D7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

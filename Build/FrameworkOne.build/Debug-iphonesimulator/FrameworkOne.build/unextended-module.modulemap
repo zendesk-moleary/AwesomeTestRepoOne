@@ -1,0 +1,10 @@
+framework module FrameworkOne {
+  umbrella header "FrameworkOne.h"
+
+  export *
+  module * { export * }
+}
+
+module FrameworkOne.__Swift {
+    exclude header "FrameworkOne-Swift.h"
+}
