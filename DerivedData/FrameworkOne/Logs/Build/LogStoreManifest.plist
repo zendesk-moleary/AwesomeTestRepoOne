@@ -176,6 +176,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C7459E8F-943C-4C3C-AE54-62239E579A23</string>
 		</dict>
+		<key>CE591D0B-068C-4BD4-9A53-3E8B384E9BB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE591D0B-068C-4BD4-9A53-3E8B384E9BB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrameworkOne project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrameworkOne</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FrameworkOne</string>
+			<key>timeStartedRecording</key>
+			<real>608410563.54537594</real>
+			<key>timeStoppedRecording</key>
+			<real>608410564.14187598</real>
+			<key>title</key>
+			<string>Build FrameworkOne</string>
+			<key>uniqueIdentifier</key>
+			<string>CE591D0B-068C-4BD4-9A53-3E8B384E9BB9</string>
+		</dict>
 		<key>D9433C7C-C7B6-4B97-A5E1-FB842FC549D7</key>
 		<dict>
 			<key>className</key>

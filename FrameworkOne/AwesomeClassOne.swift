@@ -6,10 +6,10 @@
 //  Copyright © 2020 Matthew O'Leary. All rights reserved.
 //
 
-class AwesomeClassOne {
+public class AwesomeClassOne {
     public init() {}
     
-    func greeting() {
+    public func greeting() {
         print("Greetings from FrameworkOne!")
     }
 }
